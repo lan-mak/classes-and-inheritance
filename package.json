@@ -7,7 +7,7 @@
     "lint": "eslint ./src/",
     "server": "webpack serve --mode=development --open-target /index.html",
     "build": "webpack --mode=production",
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest --coverage",
     "prepare": "husky install"
   },
   "repository": {
