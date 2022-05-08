@@ -30,7 +30,7 @@ test('Неправильный тип персонажа', () => {
   }).toThrowError(new Error('Неправильный тип'));
 });
 
-test('Неправильный тип персонажа', () => {
+test('Правильные данные', () => {
   const result = new Character('Goga', 'Daemon');
   expect(result).toEqual(dataTest);
 });
