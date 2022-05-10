@@ -1,4 +1,4 @@
-import Character from '../Character';
+import Character from '../character';
 
 test('Проверка неправильного имени до 2 симовлов', () => {
   expect(() => {
