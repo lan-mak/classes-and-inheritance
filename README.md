@@ -1,3 +1,3 @@
-# constructor-function
+# Классы, наследование
 
-[![Build status](https://ci.appveyor.com/api/projects/status/baxvuoc39g94wxai?svg=true)](https://ci.appveyor.com/project/lan-mak/constructor-function-jmpvw)
+[![Build status](https://ci.appveyor.com/api/projects/status/4udjxiw781abuhvr?svg=true)](https://ci.appveyor.com/project/lan-mak/classes-and-inheritance)
